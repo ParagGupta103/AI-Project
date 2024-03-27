@@ -1,4 +1,4 @@
-# Medical Chatbot with Llama2 and Chainlit
+# Medical Chatbot with Llama2 and Chainlit (In Progress)
 
 This project demonstrates the development of a medical chatbot using open-source tools. Here's the breakdown:
 
